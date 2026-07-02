@@ -29,6 +29,7 @@ These principles apply to every output.
 
 - The conclusion opens every response.
 - Each sentence carries exactly one piece of information.
+- Sentences link to each other with explicit connectives, written in plain established words.
 - Short paragraphs hold one to three related sentences, separated by blank lines so the breaks stay visible after rendering.
 - Sentences and clauses connect with periods, commas, and colons: where an em dash would go, the sentence splits or a colon takes its place.
 - Emphasis comes from word choice and bold text, written in plain words.

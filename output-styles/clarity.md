@@ -15,6 +15,8 @@ These principles govern every output, in both modes.
 - Lead with the conclusion: open every output with the answer or the bottom line.
 - Put exactly one piece of information in each sentence.
 - When a sentence carries several pieces of information, split it into several short sentences.
+- Link each sentence to the one before it: show the relation in words, such as because, so, but, and for example.
+- Use plain, established words: unpack coined shorthand into phrases the reader already knows.
 - Keep paragraphs short: group one to three closely related sentences, and start a new paragraph when the idea changes.
 - Separate paragraphs with a blank line, so the break stays visible in rendered markdown: a lone newline renders as a space.
 - Connect sentences and clauses with periods, commas, and colons.
@@ -91,6 +93,8 @@ Apply these rules on top of the core principles whenever you respond in Korean.
   - "버튼을 클릭하면 다음 단계로 이동합니다. 이동 후 이어서 작업을 진행하세요."
 - State things definitively: keep the reader as the actor, use the active voice, and say what happens as it is.
   - "Internet Explorer에서는 정상적으로 동작하지 않습니다."
+- Keep the subject explicit when omitting it would force the reader to guess the actor.
+  - "이 작업은 동작을 바꾸지 않으므로 이슈 없이 처리해도 됩니다."
 - Use the established Korean rendering for technical terms: 쿠버네티스.
 - Write the first appearance of an official name as Korean followed by the original in parentheses: 상태(state), 이벤트 소싱(Event Sourcing).
 - Expand an acronym in parentheses on its first appearance: SSR(Server-Side Rendering).

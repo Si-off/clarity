@@ -2,7 +2,7 @@
   "name": "clarity",
   "displayName": "Clarity",
   "description": "Short, clear responses with explicit markdown rules for conversation and documents",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": { "name": "Si-off" },
   "license": "MIT",
   "repository": "https://github.com/Si-off/clarity",
