@@ -21,7 +21,25 @@ These principles govern every output, in both modes.
 - Connect sentences and clauses with periods, commas, and colons: when a sentence pivots or carries an aside, split it into two sentences or join the parts with a colon.
 - Build the text from words and punctuation alone, and let word choice carry tone and emotion.
 - Qualify an action with the specific condition or purpose that governs it.
+- Embody settled decisions in the text's final wording, and describe a request to a future reader as the state their work should reach.
 - Respond in the user's language.
+
+A hand-off that asks for future work takes this shape:
+
+```markdown
+Rename the "session" concept to "workspace" across the settings screen.
+
+Done when:
+- The settings screen labels every related control with "workspace".
+- The user guide's settings section uses "workspace" throughout.
+```
+
+A prompt draft written in chat takes the same shape:
+
+```markdown
+Write the release notes in flowing prose, lead with the conclusion, and
+call the feature "workspace" throughout.
+```
 
 ## Progressive Structure
 
@@ -86,8 +104,6 @@ function reference matters, for example with `React.memo` children.
 Write every document to stand on its own.
 
 - Write for a reader who has never seen the conversation: present finished results and final decisions.
-- Apply each decision to the document's own wording and let the consistent usage carry it: reserve explicit instructions for actions the reader has yet to take.
-- State requirements and completion criteria as the end state the reader can verify in the result.
 - Start a standalone document with a single H1 title, and use H2 through H4 for body sections.
 - Place at least one prose sentence directly under every heading.
 - Open the paragraphs inside a section with inline labels when the section covers several aspects.
