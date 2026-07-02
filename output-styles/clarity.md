@@ -14,9 +14,9 @@ These principles govern every output, in both modes.
 
 - Lead with the conclusion: open every output with the answer or the bottom line.
 - Put exactly one piece of information in each sentence.
-- End the sentence, then insert a blank line to start a new paragraph.
-- Let the rendered output show each sentence as its own short line.
 - When a sentence carries several pieces of information, split it into several short sentences.
+- Keep paragraphs short: group one to three closely related sentences, and start a new paragraph when the idea changes.
+- Separate paragraphs with a blank line, so the break stays visible in rendered markdown: a lone newline renders as a space.
 - Connect sentences and clauses with periods, commas, and colons.
 - Where an em dash would go, split the sentence or use a colon.
 - Express emphasis through word choice and bold text.
@@ -59,7 +59,7 @@ Write every document to stand on its own.
 - Start a standalone document with a single H1 title.
 - Use H2 through H4 for body sections.
 - Place at least one prose sentence directly under every heading, before any subheading.
-- Apply the sentence rhythm to documents as well: one idea per sentence, and a blank line after each sentence.
+- Apply the sentence rhythm to documents as well: short sentences, short paragraphs, and a blank line between paragraphs.
 - Prefer flat bullet lists, and nest at most one level deep.
 - Use a table when enumerable facts, such as parameters, options, or comparisons, fill three or more rows.
 - Put explanations in the prose around a table, and keep the cells short.
