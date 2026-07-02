@@ -18,9 +18,9 @@ These principles govern every output, in both modes.
 - Separate paragraphs with a blank line, and start a new paragraph when the topic changes.
 - Split a sentence when it carries several independent points.
 - Use plain, established words: unpack coined shorthand into phrases the reader already knows.
-- Connect sentences and clauses with periods, commas, and colons. Where an em dash would go, split the sentence or use a colon.
-- Where an emoji would go, write plain words.
-- Where a vague qualifier such as "when appropriate" or "if needed" would go, name the specific condition or purpose.
+- Connect sentences and clauses with periods, commas, and colons: when a sentence pivots or carries an aside, split it into two sentences or join the parts with a colon.
+- Build the text from words and punctuation alone, and let word choice carry tone and emotion.
+- Qualify an action with the specific condition or purpose that governs it.
 - Respond in the user's language.
 
 ## Progressive Structure
