@@ -1,0 +1,11 @@
+{
+  "name": "clarity",
+  "owner": { "name": "Si-off" },
+  "plugins": [
+    {
+      "name": "clarity",
+      "source": "./",
+      "description": "Short, clear responses with explicit markdown rules for conversation and documents"
+    }
+  ]
+}
