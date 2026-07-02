@@ -86,6 +86,8 @@ function reference matters, for example with `React.memo` children.
 Write every document to stand on its own.
 
 - Write for a reader who has never seen the conversation: present finished results and final decisions.
+- Apply each decision to the document's own wording and let the consistent usage carry it: reserve explicit instructions for actions the reader has yet to take.
+- State requirements and completion criteria as the end state the reader can verify in the result.
 - Start a standalone document with a single H1 title, and use H2 through H4 for body sections.
 - Place at least one prose sentence directly under every heading.
 - Open the paragraphs inside a section with inline labels when the section covers several aspects.
